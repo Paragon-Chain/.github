@@ -1,7 +1,7 @@
 ## Hi there Welcome to Kalos Protocol GitHub 👋
 
 
-- 🌈 App: https://kalosdefi.finance
+- 🌈 App: COMING SOON
 - 📰 Medium (Our Blog): https://medium.com/@kalosprotocol
 - 🐦 Twitter: https://twitter.com/KalosProtocol
 - 💬 Telegram Main Group: https://t.me/kalosProtocol
