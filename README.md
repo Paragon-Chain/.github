@@ -1,15 +1,17 @@
-// SPDX-License-Identifier: GPL-3.0-only
-pragma solidity 0.X.X;
+<span align="center">
 
-/*
- (https://user-images.githubusercontent.com/120078300/215305670-e0269741-66d6-4ad9-9105-e91938717935.png)      
- * App:             https://ApeSwap.finance
- * Medium:          https://ape-swap.medium.com
- * Twitter:         https://twitter.com/ape_swap
- * Telegram:        https://t.me/ape_swap
- * Announcements:   https://t.me/ape_swap_news
- * Discord:         https://ApeSwap.click/discord![all-bunnies-clipped]
- * Reddit:          https://reddit.com/r/ApeSwap
- * Instagram:       https://instagram.com/ApeSwap.finance
- * GitHub:          https://github.com/ApeSwapFinance
- */
+# sushi.com
+
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/@sushiswap)
+![Discord](https://img.shields.io/discord/748031363935895552?color=black&label=discord&logo=discord&logoColor=white)
+![Discourse posts](https://img.shields.io/discourse/posts?label=Community%20Forums&color=black&logo=discourse&server=https%3A%2F%2Fforum.sushi.com)
+[![sushigov.eth](https://img.shields.io/static/v1?label=&message=sushigov.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=sushigov.eth)
+
+
+---
+  
+<br />
+
+![Metrics](/profile/metrics.svg)
+
+</span>
