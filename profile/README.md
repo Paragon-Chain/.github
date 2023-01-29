@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Welcome to Kalos Protocol GitHub 👋
 
 
 - 🌈 App: https://kalosdefi.finance
@@ -8,7 +8,7 @@
 - 👾 Discord: https://
 - 🖥 GitHub: https://github.com/KalosProtocol
 
-Interested in learning more about ApeSwap.Finance? Head over to our [official documentation](https://kaizen-defi.gitbook.io/kazien-protocol-documentations/) to read and learn more about our features, functionality, DAO, and ecosystem!
+Interested in learning more about KalosDeFi? Head over to our [official documentation](https://kaizen-defi.gitbook.io/kazien-protocol-documentations/) to read and learn more about our features, functionality, DAO, and ecosystem!
 
 <!--
 
