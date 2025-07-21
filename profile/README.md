@@ -3,7 +3,7 @@
 
 - 🌈 App: COMING SOON
 - 📰 Medium (Our Blog): https://medium.com/@paragonchain
-- 🐦 Twitter: https://twitter.com/ParagonChain
+- 🐦 Twitter: https://twitter.com/PRGNChain
 - 👾 Discord: https://
 - 🖥 GitHub: https://github.com/Paragon-chain
 
