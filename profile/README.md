@@ -1,14 +1,13 @@
-## Hi there Welcome to Kalos Protocol GitHub 👋
+## Hi there Welcome to Paragon Chain GitHub 👋
 
 
 - 🌈 App: COMING SOON
-- 📰 Medium (Our Blog): https://medium.com/@kalosprotocol
-- 🐦 Twitter: https://twitter.com/KalosProtocol
-- 💬 Telegram Main Group: https://t.me/kalosProtocol
+- 📰 Medium (Our Blog): https://medium.com/@paragonchain
+- 🐦 Twitter: https://twitter.com/ParagonChain
 - 👾 Discord: https://
-- 🖥 GitHub: https://github.com/KalosProtocol
+- 🖥 GitHub: https://github.com/Paragon-chain
 
-Interested in learning more about KalosDeFi? Head over to our [official documentation](https://kalos-protocol.gitbook.io/kazien-protocol-documentations/) to read and learn more about our features, functionality, DAO, and ecosystem!
+Interested in learning more about Paragon Chain? Head over to our [official documentation](https://kalos-protocol.gitbook.io/paragon-protocol)) to read and learn more about our features, functionality, DAO, and ecosystem!
 
 <!--
 
