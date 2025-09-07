@@ -7,7 +7,7 @@
 - 👾 Discord: https://
 - 🖥 GitHub: https://github.com/Paragon-chain
 
-Interested in learning more about Paragon Chain? Head over to our [official documentation](https://kalos-protocol.gitbook.io/paragon-protocol)) to read and learn more about our features, functionality, DAO, and ecosystem!
+Interested in learning more about Paragon Chain? Head over to our [official documentation](https://paragon-protocol.gitbook.io/paragon-protocol)) to read and learn more about our features, functionality, DAO, and ecosystem!
 
 <!--
 
