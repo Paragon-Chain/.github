@@ -4,7 +4,7 @@
 - 🌈 App: COMING SOON
 - 📰 Medium (Our Blog): https://medium.com/@paragonchain
 - 🐦 Twitter: https://twitter.com/PRGNChain
-- 👾 Discord: discord.gg/AwDmuA77tE
+- 👾 Discord: https://discord.gg/AwDmuA77tE
 - 🖥 GitHub: https://github.com/Paragon-chain
 
 Interested in learning more about Paragon Chain? Head over to our [official documentation](https://paragon-protocol.gitbook.io/paragon-protocol)) to read and learn more about our features, functionality, DAO, and ecosystem!
