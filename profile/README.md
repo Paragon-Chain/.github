@@ -40,7 +40,7 @@ This GitHub organization is the public home for approved Paragon repositories, i
 | Repository | Purpose |
 | --- | --- |
 | [`protocol-contracts`](https://github.com/Paragon-Chain/protocol-contracts) | Main smart contract repository for ParagonChain protocol systems. |
-| [`pancake-subgraph-2`](https://github.com/Paragon-Chain/pancake-subgraph-2) | Current subgraph and indexing infrastructure for protocol data surfaces. |
+| [`paragon-subgraphs`](https://github.com/Paragon-Chain/paragon-subgrapsh) | Current subgraph and indexing infrastructure for protocol data surfaces. |
 | [`.github`](https://github.com/Paragon-Chain/.github) | Organization profile, defaults, templates, and GitHub-level configuration. |
 
 ## Ecosystem Links
