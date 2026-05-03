@@ -45,7 +45,7 @@ This GitHub organization is the public home for approved Paragon repositories, i
 
 ## Ecosystem Links
 
-- **App:** Coming soon
+- **Dex:** [https://app.paragonchain.org](https://app.paragonchain.org/))
 - **Website:** [https://paragonchain.org](https://paragonchain.org)
 - **Documentation:** [https://paragon-protocol.gitbook.io/paragon-protocol](https://paragon-protocol.gitbook.io/paragon-protocol)
 - **Medium:** [https://medium.com/@paragonlab](https://medium.com/@paragonlab)
